@@ -1,4 +1,4 @@
-### Hi, I'm Ethan
+# Hi, I'm Ethan
 <hr/>
 
 I live in Boston. I like watching movies, staying active, and going to new places!
