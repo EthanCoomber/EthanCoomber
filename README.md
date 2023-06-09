@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Ethan
+<hr/>
+
+I live in Boston. I like watching movies, staying active, and going to new places!
+
+## Get in touch
+
+
 
 <!--
 **EthanCoomber/EthanCoomber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
