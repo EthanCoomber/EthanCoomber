@@ -1,9 +1,10 @@
 # Hi, I'm Ethan
-<hr/>
 
 I live in Boston. I like watching movies, staying active, and going to new places!
 
 ## Get in touch
+
+[<img src="images/gmail.svg" width="112" height="112" alt="" align="right">][webstore]
 
 
 
