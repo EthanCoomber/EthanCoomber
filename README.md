@@ -18,8 +18,8 @@ I live in Boston. I like watching movies, staying active, and going to new place
 
 
 ### My Favorite Project Repos
-<!-- * <a href="https://github.com/2009-fsa-cs-ashes-archers/JobMapApp">JavaScript Jobs USA</a> - Mapbox Job Search Tool
-* <a href="https://github.com/FSA-2009-Revenge-of-the-Shoppers/Grace-Shopper">YoDaddy</a> - E-Commerce with tons of Baby Yoda
-* <a href="https://github.com/KungoJung/expense-tracker-electron">These Expenses</a> - Desktop Expense Tracker -->
+* <a href="https://github.com/EthanCoomber/stock">Stock Tracker</a> - Track stocks and view trends
+* <a href="https://github.com/EthanCoomber/quiz_platform">Quiz Platform</a> - Study tool for students
+* <a href="https://github.com/EthanCoomber/parallel_tasks">Parallel Tasks</a> - Explores different parallelization techniques
 
 <!-- ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=dark) -->
