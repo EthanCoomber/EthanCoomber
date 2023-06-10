@@ -1,6 +1,6 @@
 ## Hi, I'm Ethan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 
-I live in Boston. I like watching movies, staying active, and going to new places!
+I'm from Boston. I like staying active, watching movies, and going to new places!
 
 
 ### Get In Touch
