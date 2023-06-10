@@ -22,4 +22,4 @@ I live in Boston. I like watching movies, staying active, and going to new place
 * <a href="https://github.com/EthanCoomber/quiz_platform">Quiz Platform</a> - Study tool for students
 * <a href="https://github.com/EthanCoomber/parallel_tasks">Parallel Tasks</a> - Explores different parallelization techniques
 
-<!-- ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=dark) -->
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanCoomber&show_icons=true&theme=dark)
