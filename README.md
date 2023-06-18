@@ -4,13 +4,13 @@ I'm from Boston. I like staying active, watching movies, and going to new places
 
 
 ### Get In Touch
-<a href="mailto:ethancoomber6@gmail.com">
+<a href="mailto:ethancoomber6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 <a href="https://www.linkedin.com/in/ethan-coomber-5a08ab197" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<a href="https://ethan-coomber-portfolio.vercel.app/">
+<a href="https://ethan-coomber-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a> 
 
