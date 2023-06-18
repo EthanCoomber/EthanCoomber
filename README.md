@@ -11,7 +11,7 @@ I'm from Boston. I like staying active, watching movies, and going to new places
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <a href="">
-    <img src="[https://img.shields.io/badge/portfolio-0A0A0A](https://ethan-coomber-portfolio.vercel.app/)?style=for-the-badge&logo=dev.to&logoColor=white">
+    <img src="https://ethan-coomber-portfolio.vercel.app?style=for-the-badge&logo=dev.to&logoColor=white">
 </a> 
 
 ### Frameworks and Databases
