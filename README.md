@@ -37,7 +37,7 @@ I'm from Boston. I like staying active, watching movies, and going to new places
 </div> -->
 
 ### My Favorite Project Repos
-* <a href="https://github.com/EthanCoomber/youtube_clone">Youtube clone</a> - Same behavior as youtube coded using React.
+* <a href="https://github.com/EthanCoomber/youtube_clone">Youtube Clone</a> - Same behavior as youtube coded using React.
 * <a href="https://github.com/EthanCoomber/stock">Stock Tracker</a> - Track stocks and view trends
 * <a href="https://github.com/EthanCoomber/quiz_platform">Quiz Platform</a> - Study tool for students
 
