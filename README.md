@@ -41,7 +41,7 @@ I'm from Boston. I like staying active, watching movies, and going to new places
 * <a href="https://github.com/EthanCoomber/stock">Stock Tracker</a> - Track stocks and view trends
 * <a href="https://github.com/EthanCoomber/quiz_platform">Quiz Platform</a> - Study tool for students
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanCoomber&layout=donut&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,cmake,shell,c&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanCoomber&layout=donut&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,cmake,typescript,shell,c&langs_count=6)
 
 <img src="https://komarev.com/ghpvc/?username=EthanCoomber&style=flat-square&color=blue" alt=""/>
 <!-- 
