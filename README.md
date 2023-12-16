@@ -37,8 +37,8 @@ I'm from Boston. I like staying active, watching movies, and going to new places
 </div> -->
 
 ### My Favorite Project Repos
+* <a href="https://github.com/EthanCoomber/e-commerce">E-commerce Website</a> - Allows users to shop for tech products.
 * <a href="https://github.com/EthanCoomber/youtube_clone">Youtube Clone</a> - Same behavior as youtube coded using React.
-* <a href="https://github.com/EthanCoomber/e-commerce">E-comerce Website</a> - Allows users to shop for tech products.
 * <a href="https://github.com/EthanCoomber/quiz_platform">Quiz Platform</a> - Study tool for students.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanCoomber&layout=donut&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,cmake,typescript,shell,scss,c&langs_count=6)
