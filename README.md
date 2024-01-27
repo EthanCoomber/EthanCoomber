@@ -37,7 +37,8 @@ I'm from Boston. I like staying active, watching movies, and going to new places
 </div> -->
 
 ### My Favorite Project Repos
-* <a href="https://github.com/EthanCoomber/e-commerce">E-commerce Website</a> - Allows users to shop for tech products.
+<!-- * <a href="https://github.com/EthanCoomber/e-commerce">E-commerce Website</a> - Allows users to shop for tech products. -->
+* <a href="https://github.com/EthanCoomber/Car_showcase">Car Rentals</a> - Allows customers to brows and rent cars.
 * <a href="https://github.com/EthanCoomber/youtube_clone">Youtube Clone</a> - Intended to mimic the behavior of YouTube.
 * <a href="https://github.com/EthanCoomber/quiz_platform">Quiz Platform</a> - Study tool for students.
 
